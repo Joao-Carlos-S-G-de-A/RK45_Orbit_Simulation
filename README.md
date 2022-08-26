@@ -21,4 +21,4 @@ Feel free to build on my code, reference it and keep it free!
 * Make it 3D
 * Add more bodies and interactions between bodies
 
-Note: System highly sensitive to initial conditions, example with 1% higher velocity in plot 
+Note: System highly sensitive to initial conditions, example with 1% higher velocity in plots
